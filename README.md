@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmad Raza.
+- 👀 I’m interested in laravel backend development.Love to Create API  
+- 🌱 I’m currently learning react js to make fuull stack dynamic website
+- 💞️ I’m looking to collaborate on Laravel 
+- 📫 Reach me out at instagram ahmadrajpot.91
